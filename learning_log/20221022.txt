@@ -1,0 +1,10 @@
+2022 10 22
+
+watched: Intro to Truffle
+	https://www.youtube.com/watch?v=Gc1Gc4IhpuE
+
+watched: [Web3] Using Web3.js to login with Ethereum + read and modify smart contracts!
+	https://www.youtube.com/watch?v=19kZiv9AhNs
+
+rewatched: Udemy: Ethereum Blockchain Developer Bootcamp With Solidity (2022)
+	Section 4: Smart Money - Deposit And Withdrawals
