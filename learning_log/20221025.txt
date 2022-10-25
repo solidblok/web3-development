@@ -1,0 +1,13 @@
+2022 10 25
+
+finished rewatching: Udemy: Ethereum Blockchain Developer Bootcamp With Solidity (2022)
+	Section 6: ERC20 Token Sale
+
+listened to Alchemy University: 1. How to develop an NFT Smart Contract (ERC721) with Alchemy - Beginner | Road to Web3 
+	https://www.youtube.com/watch?v=veBu03A6ptw
+in preparation for coding challenge
+
+rewatched ERC20 Token Tutorial | Create Your Own Cryptocurrency
+	https://www.youtube.com/watch?v=gc7e90MHvl8
+identified bugs in my code
+
