@@ -1,0 +1,8 @@
+2022 10 27
+
+began rewatching: Udemy: Ethereum Blockchain Developer Bootcamp With Solidity (2022)
+	Section 7: Non-Fungible Token (NFY)
+
+Completed code along: Faucet Smart Contract Tutorial | Solidity Tutorial
+	https://www.youtube.com/watch?v=jKW_0PQuIQw
+Deployed faucet to Goerli testnet
