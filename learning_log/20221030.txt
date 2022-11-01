@@ -1,0 +1,11 @@
+2022 10 30
+
+finished rewatching: Udemy: Ethereum Blockchain Developer Bootcamp With Solidity (2022)
+	Section 7: Non-Fungible Token (NFY)
+
+bug fixing continued for learnweb3.io Build an NFT Collection
+	https://learnweb3.io
+
+first look at Web3 Tutorial Project | Build a Faucet dApp with Ethersjs & Reactjs
+	https://www.youtube.com/watch?v=Yecd8UtY8cI&t=230s
+Reviewing how the code for this video fits with previous video
