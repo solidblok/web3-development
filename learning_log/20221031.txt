@@ -1,0 +1,8 @@
+2022 10 31
+
+bug fixing continued for learnweb3.io Build an NFT Collection
+	https://learnweb3.io
+
+
+listened to How to build "Buy Me a Coffee" DeFi Dapp (Solidity, Hardhat, Ethers.js, Alchemy) | Road to Web3
+	https://www.youtube.com/watch?v=cxxKdJk55Lk
