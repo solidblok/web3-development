@@ -1,7 +1,7 @@
 2022 10 30
 
 finished rewatching: Udemy: Ethereum Blockchain Developer Bootcamp With Solidity (2022)
-	Section 7: Non-Fungible Token (NFY)
+	Section 7: Non-Fungible Token (NFT)
 
 bug fixing continued for learnweb3.io Build an NFT Collection
 	https://learnweb3.io
